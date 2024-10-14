@@ -8,8 +8,8 @@ The 8-Puzzle consists of a 3x3 grid with 8 numbered tiles and one empty space. T
 
 ### Initial State Example
 1 2 3
-4 5 6
-7 8 _
+4 _ 6
+7 8 5
 
 ### Goal State
 1 2 3
