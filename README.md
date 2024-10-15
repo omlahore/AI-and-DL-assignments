@@ -1,44 +1,7 @@
-#Artificial Intelligence and Deep Learning Assignments Repository
+# Artificial Intelligence and Deep Learning Assignments Repository
 ## This Repo contains Assignments and Presentation of the subjects AI and DL 
 
-###Directory Structure
-# Directory Structure
 
-## Artificial Intelligence
-
-Artificial Intelligence/
-├── Assignments/
-│   ├── Assignment1/
-│   │   ├── README.md
-│   │   ├── Assignment1.ipynb
-│   │   ├── Presentation.pptx
-│   ├── Assignment2/
-│   │   ├── README.md
-│   │   ├── Assignment2.ipynb
-│   │   ├── Presentation.pptx
-│   ├── ...
-├── Presentation/
-│   ├── Presentation.pptx
-
-
----
-
-## Deep Learning
-
-Deep Learning/
-├── Assignments/
-│   ├── Assignment1/
-│   │   ├── README.md
-│   │   ├── Assignment1.ipynb
-│   │   ├── Presentation.pptx
-│   ├── Assignment2/
-│   │   ├── README.md
-│   │   ├── Assignment2.ipynb
-│   │   ├── Presentation.pptx
-│   ├── ...
-├── Presentation/
-│   ├── Presentation.pptx
- 
 
 
 # CAUA31201: ARTIFICIAL INTELLIGENCE
