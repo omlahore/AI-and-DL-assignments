@@ -1,11 +1,9 @@
 # Artificial Intelligence and Deep Learning Assignments Repository
 ## This Repo contains Assignments and Presentation of the subjects AI and DL 
 
-###Directory Structure
-# Directory Structure
 
 
- 
+
 
 
 # CAUA31201: ARTIFICIAL INTELLIGENCE
